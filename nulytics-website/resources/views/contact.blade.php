@@ -9,9 +9,7 @@
                 <div class="row">
                     <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                         <div class="cr-breadcrumb text-center">
-                            <h1>Contact Us</h1>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration passages of Lorem Ipsum available, but the majority</p>
+                            <h1>Contact Us</h1>                            
                         </div>
                     </div>
                 </div>
@@ -69,10 +67,9 @@
                                 <div class="pg-contact-form pg-contact-form-2 mr-0 mr-lg-3">
                                     <div class="small-title">
                                         <h2>Contact Form</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                            Lorem Ipsum available.</p>
+                                        <p>Send us your thoughts!</p>
                                     </div>
-                                    <form id="contact-form" action="mail2.php" method="post">
+                                    <form id="contact-form" action="" method="post">
                                         <div class="row no-gutters">
                                             <div class="col-lg-6 col-md-6">
                                                 <div class="single-input">
@@ -108,11 +105,13 @@
                             <div class="col-lg-6">
                                 <div class="pg-contact-map-wrapper">
                                     <div class="small-title">
-                                        <h2>Contact Map</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available majority</p>
+                                        <h2>Contact Map</h2>                                        
                                     </div>
                                     <div class="contact-map">
-                                        <div class="contact-google-map" id="google-map"></div>
+                                        <div class="contact-google-map" id="google-map">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d383.7370744902211!2d90.40869070805562!3d23.792168868680278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1579084445889!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                        
+                                        </div>
                                     </div>
                                 </div>
                             </div>
