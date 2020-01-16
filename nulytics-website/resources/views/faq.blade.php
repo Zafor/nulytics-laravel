@@ -9,9 +9,7 @@
                 <div class="row">
                     <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                         <div class="cr-breadcrumb text-center">
-                            <h1>FAQ</h1>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration passages of Lorem Ipsum available, but the majority</p>
+                            <h1>FAQ</h1>                            
                         </div>
                     </div>
                 </div>

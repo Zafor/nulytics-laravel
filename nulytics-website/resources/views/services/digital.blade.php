@@ -56,14 +56,14 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/digitalmarketing-two.png" alt="Service Thumb">
+                                    <img src="images/service-features/social-media.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">Social Media</a>
+                                        <a href="">Social Media</a>
                                     </h4>
-                                    <p>There are many variations of passages Lorem Ipsum, but the majority variations of passages
-                                        of Lorem Ipsum</p>
+                                    <p>Now, social media has the most people and your product gets most exposure here. 
+                                    We make sure the highest activity period to make your product reach the original customers.</p>
                                 </div>
                             </div>
                         </div>
@@ -73,14 +73,14 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/service/service-thumb-2.jpg" alt="Service Thumb">
+                                    <img src="images/service-features/media-buying.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">Media Buying</a>
+                                        <a href="">Media Buying</a>
                                     </h4>
-                                    <p>There are many variations of passages Lorem Ipsum, but the majority variations of passages
-                                        of Lorem Ipsum</p>
+                                    <p>The generic reach hardly covers your original clients. A paid promotion ensures your product reach.
+                                    And we have no limit for Media Buying. You can use as much you want.</p>
                                 </div>
                             </div>
                         </div>
@@ -90,14 +90,14 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/service/service-thumb-3.jpg" alt="Service Thumb">
+                                    <img src="images/service-features/seo.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">Search Engine Optimization</a>
+                                        <a href="">Search Engine Optimization</a>
                                     </h4>
-                                    <p>There are many variations of passages Lorem Ipsum, but the majority variations of passages
-                                        of Lorem Ipsum</p>
+                                    <p>SEO(Seach Engine Optimization) allows you to get found in a single Google search! We use most used
+                                    keywords by the users to make sure your web page reachs the top position of the search!</p>
                                 </div>
                             </div>
                         </div>
@@ -105,81 +105,12 @@
                     </div>
                 </div>
 
-                 <div class="container related-services">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="small-title">
-                                <h3 style="text-align: center;">Why Our Clients Choose Us?</h4>
-                            </div>
-                        </div>
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Unique Ideas</a>
-                                    </h5>
-                                    <p>We just don't go for generic marketing. We analyze your market base and curate content according to your business needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
+                @include('partials.client-choice')
 
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Amazing Team</a>
-                                    </h5>
-                                    <p>Our ideation team, design team and executaion team works collaborately to make sure the campaign runs as planned!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
-
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Seamless Support</a>
-                                    </h5>
-                                    <p>We ensure continuous support to make sure the impact of your advertising! Because at the end of the day these impacts create an impression on your branding!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
-                    </div>
-                </div>
-
-            </div>
-            <!--// Service Details -->
-
-             <!-- Call To Action Area -->
-            <section class="callto-action-area bg-theme">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-10 offset-xl-1 col-12 offset-0">
-                            <div class="callto-action">
-                                <div class="callto-action-inner">
-                                    <h2>Work with our amazing team!</h2>
-                                    <a href="contact-us.html" class="cr-btn cr-btn-white">
-                                        <span>Get In Touch</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </section>
-            <!--// Call To Action Area -->
+                 @include('partials.call-to-action')
 
         </main>
         <!--// Page Content -->
 
 @endsection
+

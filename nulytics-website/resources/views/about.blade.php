@@ -11,9 +11,7 @@
                 <div class="row">
                     <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                         <div class="cr-breadcrumb text-center">
-                            <h1>About Us</h1>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                                alteration passages of Lorem Ipsum available, but the majority</p>
+                            <h1>About Us</h1>                           
                         </div>
                     </div>
                 </div>
@@ -28,21 +26,21 @@
             <section id="about-area" class="about-area section-padding-lg bg-grey">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-xl-5 col-lg-6 order-2 order-lg-1">
-                            <div class="about-content">
-                                <h2>No road is long with good company</h2>
-                                <p>There are many variation of passages of Lorem Ipsum available, but the majority have suffered
-                                    alteration passages of Lorem Ipsum available, but the majority</p>
-                                <a href="about-us.html" class="cr-btn">
-                                    <span>Know More</span>
-                                </a>
+                        <div class="col-xl-6 col-lg-6 order-2 order-lg-1">
+                            <div class="about-content" style="text-align:center">
+                                <h2 >Our Mission</h2>
+                                <p>Simply put, we want to make sure that our clients become the best in their respective sectors 
+                                and we will be the ROI multiplier for your company.</p>                                
                             </div>
                         </div>
-                        <div class="col-xl-7 col-lg-6 order-1 order-lg-2">
-                            <div class="about-image text-center wow fadeInRight" data-tilt="">
-                                <img src="images/about/about-thumb-1.png" alt="about thumb">
+                        <div class="col-xl-6 col-lg-6 order-2 order-lg-1">
+                            <div class="about-content" style="text-align:center">
+                                <h2 >Our Vision</h2>
+                                <p>We want to be the company that brings a smile and a nod of approval from clients because
+                                 of the passion they witness in how we harmonize talent and flawless delivery.</p>                                
                             </div>
                         </div>
+                       
                     </div>
                 </div>
             </section>
@@ -56,7 +54,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6">
                             <div class="skills-area-content p-0">
-                                <h2>Learn About Us</h2>
+                                <h2>Technology We Use</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have of
                                     Lorem Ipsum available, but the majority</p>
 
@@ -103,41 +101,7 @@
             </section>
             <!--//Skills Area  -->
 
-            <!-- Counter Area -->
-            <div class="counter-area bg-theme">
-                <div class="counter-area-inner bg-theme">
-                    <div class="container">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col-lg-3 col-md-12">
-                                <div class="counter-content">
-                                    <h1>The last 9 years</h1>
-                                    <h4>What we have done</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4">
-                                <div class="counter text-center">
-                                    <h1 class="counter-active">131</h1>
-                                    <h6>AWARD WIN</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4">
-                                <div class="counter text-center">
-                                    <h1 class="counter-active">612</h1>
-                                    <h6>Projects Done</h6>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4">
-                                <div class="counter text-center">
-                                    <h1 class="counter-active">465</h1>
-                                    <h6>Satisfied Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// Counter Area -->
-
+            
         </main>
         <!--// Page Content -->
 

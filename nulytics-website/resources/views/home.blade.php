@@ -24,7 +24,7 @@
                     <p>We are Nulytics and we strike a harmony between creativity and code. We pride in the seamless coordination between our visual graphics team, software engineers and social media gurus. Our team members are in Boston and in Dhaka. And we are going to be with you every step of the way:
 ideation → project progression → validation of your passion.
                     </p>
-                    <a href="about-us.html" class="cr-btn cr-btn-lg cr-btn-round">
+                    <a href="about" class="cr-btn cr-btn-lg cr-btn-round">
                         <span>More About Us</span>
                     </a>
                 </div>
@@ -236,7 +236,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/cupcake.png" alt="CupCake POS">
                         </div>
 
                         <h5>Cupcake POS</h5>
@@ -259,7 +259,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/lms.png" alt="testimonial author">
                         </div>
 
                         <h5>4Sages & 3Scholars Platform</h5>
@@ -282,7 +282,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/accounting-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Accounting Management System</h5>
@@ -306,7 +306,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/dignostic-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Diagnostic Center Management System</h5>
@@ -329,7 +329,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/hospital-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Hospital Management System</h5>
@@ -352,7 +352,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/pharmacy-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Pharmacy Store Management System</h5>
@@ -374,7 +374,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/hr-payroll.png" alt="testimonial author">
                         </div>
 
                         <h5>HR & Payroll Management System</h5>
@@ -396,7 +396,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/front-desk-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Front Desk Management System</h5>
@@ -420,7 +420,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/erp.png" alt="testimonial author">
                         </div>
 
                         <h5>Enterprise Resource Planning (ERP)</h5>
@@ -444,7 +444,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/distribution-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Distribution Management System</h5>
@@ -468,7 +468,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/school-management-system.png" alt="testimonial author">
                         </div>
 
                         <h5>School Management System</h5>
@@ -492,7 +492,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/complex-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Apartment Complex Management System</h5>
@@ -516,7 +516,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/guest-house-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Guest House Management System</h5>
@@ -539,7 +539,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/petrol-pump.png" alt="testimonial author">
                         </div>
 
                         <h5>Petrol Pump Management System</h5>
@@ -562,7 +562,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/beauty-parlor-management.png" alt="testimonial author">
                         </div>
 
                         <h5>Beauty Salon/Parlour Management System</h5>
@@ -585,7 +585,7 @@ ideation → project progression → validation of your passion.
                     <div class="testimonial text-center"> 
                         <a href="">
                         <div class="testimonial-thumb">
-                            <img src="images/testimonial/small-thumb/thumb-3.png" alt="testimonial author">
+                            <img src="images/icons/appointment-scheduling.png" alt="testimonial author">
                         </div>
 
                         <h5>Appointment Scheduling System</h5>

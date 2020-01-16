@@ -38,8 +38,8 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
-                                <span>
-                                        <i class="bi bi-laptop"></i>
+                                    <span>
+                                        <img src="images/icons/cupcake.png" alt="CupCake POS">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -59,8 +59,8 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
-                                <span>
-                                        <i class="bi bi-laptop"></i>
+                                    <span>
+                                    <img src="images/icons/lms.png" alt="4Sages & 3Scholars Platform">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -80,7 +80,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                     <span>
-                                        <i class="bi bi-laptop"></i>
+                                     <img src="images/icons/accounting-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -100,7 +100,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                     <span>
-                                        <i class="bi bi-laptop"></i>
+                                    <img src="images/icons/dignostic-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -120,7 +120,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                     <span>
-                                        <i class="bi bi-laptop"></i>
+                                     <img src="images/icons/hospital-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -140,8 +140,8 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
-                                <span>
-                                        <i class="bi bi-laptop"></i>
+                                    <span>
+                                     <img src="images/icons/pharmacy-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -161,7 +161,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                     <span>
-                                        <i class="bi bi-laptop"></i>
+                                    <img src="images/icons/hr-payroll.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -180,7 +180,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/front-desk-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -200,7 +200,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/erp.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -220,7 +220,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/distribution-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -240,7 +240,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/school-management-system.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -261,7 +261,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/complex-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -281,7 +281,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/guest-house-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -301,7 +301,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/petrol-pump.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -321,7 +321,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/beauty-parlor-management.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -341,7 +341,7 @@
                             <div class="service service-style-2 text-center">
                                 <div class="service-icon">
                                 <span>
-                                        <i class="bi bi-laptop"></i>
+                                <img src="images/icons/appointment-scheduling.png" alt="testimonial author">
                                     </span>
                                     <span>
                                         <i class="bi bi-search"></i>
@@ -363,53 +363,9 @@
             </section>
             <!--// Services Area -->
 
-            <!-- About Area -->
-            <section id="about-area" class="about-area section-padding-lg bg-white">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-5 col-lg-12 order-2 order-xl-1">
-                            <div class="about-content">
-                                <h2>Fully Responsive</h2>
-                                <p>There are many variations of passages Lorem Ipsum, but the majority variation passages Lorem
-                                    Ipsum, but the There are many variations of passages Lorem Ipsum</p>
-                                <a href="about-us.html" class="cr-btn cr-btn-lg">
-                                    <span>Know More</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-xl-7 col-lg-12 order-1 order-xl-2">
-                            <div class="video-box ml-0 ml-xl-5" data-tilt>
-                                <div class="video-box-thumb">
-                                    <img src="images/video-thumbs/video-thumb-1.jpg" alt="video-thumb">
-                                </div>
-                                <a href="https://www.youtube.com/watch?v=dk9uNWPP7EA" class="play-button">
-                                    <i class="flaticon-play-button"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// About Area -->
-
-            <!-- Call To Action Area -->
-            <section class="callto-action-area bg-theme">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-10 offset-xl-1 col-12 offset-0">
-                            <div class="callto-action">
-                                <div class="callto-action-inner">
-                                    <h2>To start your project with us</h2>
-                                    <a href="#" class="cr-btn cr-btn-white">
-                                        <span>Purchase Now</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// Call To Action Area -->
+           
+            @include('partials.call-to-action')
+            
 
         </main>
         <!--// Page Content -->

@@ -58,13 +58,13 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/service/webhome.jpg" alt="Service Thumb">
+                                    <img src="images/service-features/latest-products.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">Latest Products</a>
+                                        <a href="">Latest Products</a>
                                     </h4>
-                                    <p>With enough vendors at our doorstep you can get the latest hadwares/devices for yourself or your business. We get the market trend and user trend for you to have what you want.</p>
+                                    <p>With enough vendors at our doorstep you can get the latest hadware/devices for yourself or your business. We get the market trend and user trend for you to have what you want.</p>
                                 </div>
                             </div>
                         </div>
@@ -74,13 +74,13 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/service/service-thumb-2.jpg" alt="Service Thumb">
+                                    <img src="images/service-features/warranty.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">Warrenty</a>
+                                        <a href="">Warranty</a>
                                     </h4>
-                                    <p>Warrenty matters! We agree with you and that is why we support you with product warenties for all types of products.</p>
+                                    <p>Warranty matters! We agree with you and that is why we support you with product warranties for all types of products.</p>
                                 </div>
                             </div>
                         </div>
@@ -90,11 +90,11 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="service service-style-4 text-center">
                                 <div class="service-image">
-                                    <img src="images/service/service-thumb-3.jpg" alt="Service Thumb">
+                                    <img src="images/service-features/after-sales-service.jpg" alt="Service Thumb">
                                 </div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="service-details.html">After Sales Service</a>
+                                        <a href="">After Sales Service</a>
                                     </h4>
                                     <p>After sales service is why our customers like us much. We understand you can bump into some troubles with new technology. We are here for you to get started and we definitely give you free trainings!</p>
                                 </div>
@@ -104,78 +104,9 @@
                     </div>
                 </div>
 
-                 <div class="container related-services">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="small-title">
-                                <h3 style="text-align: center;">Why Our Clients Choose Us?</h4>
-                            </div>
-                        </div>
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Unique Ideas</a>
-                                    </h5>
-                                    <p>We just don't go for generic marketing. We analyze your market base and curate content according to your business needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
+                @include('partials.client-choice')
 
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Amazing Team</a>
-                                    </h5>
-                                    <p>Our ideation team, design team and executaion team works collaborately to make sure the campaign runs as planned!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
-
-                        <!-- Signle Service -->
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="service service-style-4 text-center">
-                                
-                                <div class="service-content">
-                                    <h5>
-                                        <a href="service-details.html">Seamless Support</a>
-                                    </h5>
-                                    <p>We ensure continuous support to make sure the impact of your advertising! Because at the end of the day these impacts create an impression on your branding!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--// Signle Service -->
-                    </div>
-                </div>
-
-            </div>
-            <!--// Service Details -->
-
-             <!-- Call To Action Area -->
-            <section class="callto-action-area bg-theme">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-10 offset-xl-1 col-12 offset-0">
-                            <div class="callto-action">
-                                <div class="callto-action-inner">
-                                    <h2>Work with our amazing team!</h2>
-                                    <a href="contact-us.html" class="cr-btn cr-btn-white">
-                                        <span>Get In Touch</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// Call To Action Area -->
+                @include('partials.call-to-action')
 
         </main>
         <!--// Page Content -->

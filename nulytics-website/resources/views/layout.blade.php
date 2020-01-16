@@ -203,14 +203,13 @@
                                         <a href="index.html">
                                             <img src="images/logo.png" alt="footer logo">
                                         </a>
-                                        <p>long established fact that a reader will be distracted by the readable content by
-                                            the readable content established fact that</p>
+                                        <p>Get updates on our latest products!</p>
                                     </div>
                                     <!--// Single Widget -->
 
                                     <!-- Single Widget -->
                                     <div class="single-widget widget-newsletter">
-                                        <form action="http://devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&id=05d85f18ef" method="post" class="newsletter-widget-form">
+                                        <form action="" method="post" class="newsletter-widget-form">
                                             <input type="email" placeholder="Your Email">
                                             <button type="submit" class="cr-btn cr-btn-sm">
                                                 <span>Subscribe</span>
@@ -226,16 +225,16 @@
                                         <h5 class="footer-widget-title">QUICK LINK</h5>
                                         <ul>
                                             <li>
-                                                <a href="index.html">Home</a>
+                                                <a href="/">Home</a>
                                             </li>
                                             <li>
-                                                <a href="about-us.html">About Us</a>
+                                                <a href="about">About Us</a>
                                             </li>
                                             <li>
-                                                <a href="blog-fullwidth.html">Blog Pages</a>
+                                                <a href="/">Blog Pages</a>
                                             </li>
                                             <li>
-                                                <a href="contact-us.html">Quick Contact</a>
+                                                <a href="contact">Quick Contact</a>
                                             </li>
                                             
                                         </ul>
