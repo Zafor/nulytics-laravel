@@ -82,9 +82,9 @@
                             <li>
                                 <a href="contact">Contact us</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="faq">FAQ</a>
-                            </li>
+                            </li> -->
                             
                         </ul>
                                                     
@@ -101,7 +101,7 @@
                     <div class="social-icons">
                         <ul>
                             <li class="facebook">
-                                <a href="https://www.facebook.com/nulyticsBD/">
+                                <a href="https://www.facebook.com/nulytics/">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
@@ -203,20 +203,11 @@
                                         <a href="index.html">
                                             <img src="images/logo.png" alt="footer logo">
                                         </a>
-                                        <p>Get updates on our latest products!</p>
+                                        
                                     </div>
                                     <!--// Single Widget -->
 
-                                    <!-- Single Widget -->
-                                    <div class="single-widget widget-newsletter">
-                                        <form action="" method="post" class="newsletter-widget-form">
-                                            <input type="email" placeholder="Your Email">
-                                            <button type="submit" class="cr-btn cr-btn-sm">
-                                                <span>Subscribe</span>
-                                            </button>
-                                        </form>
-                                    </div>
-                                    <!--// Single Widget -->
+                                  
                                 </div>
 
                                 <div class="col-xl-2 col-md-6 col-12">

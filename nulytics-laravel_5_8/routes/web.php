@@ -30,4 +30,4 @@ Route::view('products','products');
 
 Route::view('about','about');
 Route::view('contact','contact');
-Route::view('faq','faq');
+// Route::view('faq','faq');
